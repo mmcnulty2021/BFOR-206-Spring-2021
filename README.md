@@ -1,8 +1,6 @@
 # BFOR-206-Spring-2021
-python
+python_java_c <3 
 
 
 
-Lets code something in python!
-
-After you do it in python try coding it in "C" or Java.
+Lets build something!
